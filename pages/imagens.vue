@@ -19,7 +19,7 @@
         ></b-image>
 
 
-        <div class="columns mt-5">
+        <div class="columns">
             <div class="column is-3">
                 <!-- imagem com tamanho lateral limitado pelo tamanho da coluna -->
                 <b-image
